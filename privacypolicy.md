@@ -8,7 +8,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email and password. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email, name, and password. The information that I request is collected by me solely for analytics and app health purposes.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -49,7 +49,7 @@ These Services may address children under the age of 13. The only information co
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-08-06
+This policy is effective as of 2022-04-12
 
 ### Contact
 
